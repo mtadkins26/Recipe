@@ -9,3 +9,5 @@ get onions
 get a bowl
 
 get masher
+
+mash the cados
